@@ -12,3 +12,6 @@
 
 # Conclusion
 - Ehcache looks good enough to work in multithreaded environment.
+
+# ehcache version
+- 3.1.2
